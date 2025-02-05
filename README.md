@@ -36,8 +36,10 @@
 </div>
 <h2 align="center">⚡Github Streak Stats⚡</h2>
 <br>
-<div align="center">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilKumarapp&show_icons=true&locale=en&layout=compact" alt="NikhilKumarapp" /></p>
-    
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NikhilKumarapp&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NikhilKumarapp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilKumarapp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-- ⚡ Fun fact: Did you know? The very first commit on GitHub was made by its co-founder, Tom Preston-Werner, on October 19, 2007. It was a simple commit message that said, "initial commit."
